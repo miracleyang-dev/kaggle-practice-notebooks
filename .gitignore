@@ -1,0 +1,18 @@
+# Kaggle 数据文件
+*.csv
+*.parquet
+*.zip
+*.gz
+*.rar
+*.xlsx
+
+# 模型文件（可选）
+*.pkl
+*.h5
+*.pt
+*.pth
+
+# 临时文件
+*.ipynb_checkpoints/
+__pycache__/
+.vscode/
