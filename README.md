@@ -1,23 +1,18 @@
-# kaggle-notebooks
-这里是我的 Kaggle 笔记本与竞赛代码合集，按日常学习与复盘进行整理。
-
-## 当前状态
-仍处于学习与练习阶段，**暂无奖牌**。
-奖牌文件夹用于未来竞赛成绩归档。
+# kaggle-practice-notebooks
+Kaggle 练习项目合集，涵盖入门赛与 Playground Series，专注于实践与复盘。
 
 ## 仓库结构
 ```
-kaggle-notebooks/
-|-- medal-competitions/
-|   |-- gold/
-|   |-- silver/
-|   |-- bronze/
-|-- practice/
+kaggle-practice-notebooks/
+├── digit-recognizer/
+├── house-price-prediction/
+└── titanic-survival-prediction/
 ```
 
-## 目录说明
-- `medal-competitions/`: 预留给 Gold/Silver/Bronze 级别竞赛的归档位置。
-- `practice/`: 用于入门赛、Playground Series 和日常练习。
+## 项目说明
+- `digit-recognizer/`: 手写数字识别（MNIST），图像分类入门练习。
+- `house-price-prediction/`: 房价预测，回归问题与特征工程练习。
+- `titanic-survival-prediction/`: 泰坦尼克生还预测，经典二分类入门项目。
 
 ## 主要学习方向
 - 探索性数据分析与数据清洗
